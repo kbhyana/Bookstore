@@ -8,4 +8,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Offline book store system in which customers can buy books from the application, built using Java(for Graphical User Interface) and MySQL(for the databases) and have connected them using JDBC.
 ```markdown
-Syntax highlighted code block
+
