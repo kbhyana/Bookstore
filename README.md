@@ -1,7 +1,7 @@
 ## Welcome to La libreria
 
 Click on the video below to view the working of the project.
-[Video](https://raw.githubusercontent.com/kbhyana/Bookstore/master/ExecutionVideoFinal.mp4)
+[Video](https://youtu.be/kBAAwIAJbHE)
 
 For source code click on the github link.
 
